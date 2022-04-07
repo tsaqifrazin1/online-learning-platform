@@ -9,25 +9,27 @@
 - If you get `listening on http://localhost:3000` on your console, then you need migrate and seed the data with `npx sequelize-cli db:migrate` ==> `npx sequelize-cli db:seed:all`
 - you need create .env file with
 
-DB_USER=
-DB_PASSWORD=
-DB_DATABASE=elemes
-DB_DATABASE_TEST=elemes.Test
-DB_HOST=localhost
-DB_DIALECT=mysql
-SECRET=
+DB_USER=    \
+DB_PASSWORD=    \
+DB_DATABASE=elemes  \
+DB_DATABASE_TEST=elemes.Test    \
+DB_HOST=localhost  \
+DB_DIALECT=mysql    \
+SECRET= \
 
-#cloudinary
-CLOUDINARY_NAME=
-CLOUDINARY_API_KEY=
-CLOUDNINARY_API_SECRET= 
+#cloudinary \
+CLOUDINARY_NAME=    \
+CLOUDINARY_API_KEY= \
+CLOUDNINARY_API_SECRET=     \
 
 fill with your own credential
 - now you can use this REST API
 
 ## REST API
 
-## Auth
+## Admin (can access all endpoint)
+
+### Auth
 
 - #### Sign in with seed data
 
@@ -60,7 +62,6 @@ fill with your own credential
 
 CRUD Users collections
 
-### Admin
 
 - #### Read All User Data
 
@@ -439,7 +440,7 @@ User_Course
     
     {"status":"success","data":{"stat":{"total_user":12,"total_course":11,"total_free_course":7}}}
 
-### User access
+### User (below is all the endpoint that user can access)
 
 #### Create Users data (SignUp)
 
