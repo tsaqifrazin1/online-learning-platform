@@ -1,0 +1,84 @@
+{
+    "courses":[
+        {
+            "id":1,
+            "category_course_id": 1,
+            "name": "Belajar HTML",
+            "price": 0,
+            "module_total": 30,
+            "time":"30"
+        },
+        {
+            "id":2,
+            "category_course_id": 1,
+            "name": "Belajar CSS",
+            "price": 0,
+            "module_total": 30,
+            "time":"30"
+        },
+        {
+            "id":3,
+            "category_course_id": 2,
+            "name": "Belajar Javascript",
+            "price": 0,
+            "module_total": 50,
+            "time":"120"
+        },
+        {
+            "id":4,
+            "category_course_id": 2,
+            "name": "Belajar Python",
+            "price": 0,
+            "module_total": 50,
+            "time":"120"
+        },
+        {
+            "id":5,
+            "category_course_id": 2,
+            "name": "Belajar Go-Lang",
+            "price": 0,
+            "module_total": 50,
+            "time":"120"
+        },
+        {
+            "id":6,
+            "category_course_id": 2,
+            "name": "Cloud Computing",
+            "price": 0,
+            "module_total": 60,
+            "time":"120"
+        },
+        {
+            "id":7,
+            "category_course_id": 3,
+            "name": "Cloud Computing Intermediate",
+            "price": 200000,
+            "module_total": 80,
+            "time":"150"
+        },
+        {
+            "id":8,
+            "category_course_id": 3,
+            "name": "Backend Developer Intermediate",
+            "price": 200000,
+            "module_total": 90,
+            "time":"180"
+        },
+        {
+            "id":9,
+            "category_course_id": 4,
+            "name": "Backend Developer Expert",
+            "price": 250000,
+            "module_total": 120,
+            "time":"240"
+        },
+        {
+            "id":10,
+            "category_course_id": 5,
+            "name": "Backend Developer Master",
+            "price": 300000,
+            "module_total": 150,
+            "time":"360"
+        }
+    ]
+}

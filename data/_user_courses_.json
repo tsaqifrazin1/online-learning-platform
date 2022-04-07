@@ -1,0 +1,63 @@
+{
+"user_courses": [
+	{
+		"id" : 1,
+		"course_id" : 3,
+		"user_id" : 2,
+		"flag" : "1"
+	},
+	{
+		"id" : 2,
+		"course_id" : 4,
+		"user_id" : 3,
+		"flag" : "1"
+	},
+	{
+		"id" : 3,
+		"course_id" : 3,
+		"user_id" : 4,
+		"flag" : "1"
+	},
+	{
+		"id" : 4,
+		"course_id" : 5,
+		"user_id" : 5,
+		"flag" : "1"
+	},
+	{
+		"id" : 5,
+		"course_id" : 7,
+		"user_id" : 6,
+		"flag" : "1"
+	},
+	{
+		"id" : 6,
+		"course_id" : 6,
+		"user_id" : 7,
+		"flag" : "1"
+	},
+	{
+		"id" : 7,
+		"course_id" : 10,
+		"user_id" : 8,
+		"flag" : "1"
+	},
+	{
+		"id" : 8,
+		"course_id" : 8,
+		"user_id" : 9,
+		"flag" : "1"
+	},
+	{
+		"id" : 9,
+		"course_id" : 5,
+		"user_id" : 10,
+		"flag" : "1"
+	},
+	{
+		"id" : 10,
+		"course_id" : 1,
+		"user_id" : 11,
+		"flag" : "1"
+	}
+]}

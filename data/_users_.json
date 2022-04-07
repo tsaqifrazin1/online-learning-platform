@@ -1,0 +1,113 @@
+{
+"users": [
+	{
+		"id" : 1,
+		"role" : "admin",
+		"fullname" : "admin",
+		"email" : "admin@email.com",
+		"pass" : "$2b$10$Y.iIPrfe5fmByjDDEkrmfuLxumMwcEy5AhrPe29fvCFjAOzqDeodK",
+		"token" : "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJyb2xlIjoiYWRtaW4iLCJmdWxsbmFtZSI6ImFkbWluIiwiZW1haWwiOiJhZG1pbkBlbWFpbC5jb20iLCJpZCI6MSwiaWF0IjoxNjQ5Mjk4MzA2fQ.R4KAruKbs0AI45H-3H53hIaymDMt_NNbox2bi9va38Y",
+		"image" : null,
+		"flag" : "1"
+	},
+	{
+		"id" : 2,
+		"role" : "user",
+		"fullname" : "user1",
+		"email" : "user1@email.com",
+		"pass" : "$2b$10$Ns8v53S57vj99QJy8DXeaeLZ\/GsttD2dG7IsF9\/C7a1iYy7SfioYa",
+		"token" : "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJyb2xlIjoidXNlciIsImZ1bGxuYW1lIjoidXNlcjEiLCJlbWFpbCI6InVzZXIxQGVtYWlsLmNvbSIsImlkIjoyLCJpYXQiOjE2NDkyOTg2MTZ9.ENlYZ2rlhsjlAMXSZvaN6j2wJclBkZYP88IhiD7CkZ4",
+		"image" : null,
+		"flag" : "1"
+	},
+	{
+		"id" : 3,
+		"role" : "user",
+		"fullname" : "user2",
+		"email" : "user2@email.com",
+		"pass" : "$2b$10$wcBSkInzt.5Jll.PHQ\/0Sei52Psud.zT5hk.p6P\/tEvpu7NOwNo.G",
+		"token" : "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJyb2xlIjoidXNlciIsImZ1bGxuYW1lIjoidXNlcjIiLCJlbWFpbCI6InVzZXIyQGVtYWlsLmNvbSIsImlkIjozLCJpYXQiOjE2NDkyOTg2MjB9.7adYPQDPE3xNxQgX8vZNb8GR3JiAKJl2cGv8mvAnJAw",
+		"image" : null,
+		"flag" : "1"
+	},
+	{
+		"id" : 4,
+		"role" : "user",
+		"fullname" : "user3",
+		"email" : "user3@email.com",
+		"pass" : "$2b$10$0stoVQ1J5Zt3aUFGrSK1tOLpiYEc9iqVmqt.D6DQHXoA921fQu3du",
+		"token" : "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJyb2xlIjoidXNlciIsImZ1bGxuYW1lIjoidXNlcjMiLCJlbWFpbCI6InVzZXIzQGVtYWlsLmNvbSIsImlkIjo0LCJpYXQiOjE2NDkyOTg2MjR9.JncKF5GhGQlL5AEVgwtNO-xvzRbdRRXNr4tD2bmzgIo",
+		"image" : null,
+		"flag" : "1"
+	},
+	{
+		"id" : 5,
+		"role" : "user",
+		"fullname" : "user4",
+		"email" : "user4@email.com",
+		"pass" : "$2b$10$fZDgaifrrTvAS\/\/iOZrHSeiwQxYx9utLlnZhE5M6.gt718t44GEFe",
+		"token" : "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJyb2xlIjoidXNlciIsImZ1bGxuYW1lIjoidXNlcjQiLCJlbWFpbCI6InVzZXI0QGVtYWlsLmNvbSIsImlkIjo1LCJpYXQiOjE2NDkyOTg2Mjh9.KcaTJUuBDjSqyt4pxsuY2_sF7FIvtm7n0VrUcTgZ1jM",
+		"image" : null,
+		"flag" : "1"
+	},
+	{
+		"id" : 6,
+		"role" : "user",
+		"fullname" : "user5",
+		"email" : "user5@email.com",
+		"pass" : "$2b$10$TYEdWfvpd\/6HF\/fHqzBZI.QGGdhwTEyU\/XmGdquN6gGgZPqNucNce",
+		"token" : "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJyb2xlIjoidXNlciIsImZ1bGxuYW1lIjoidXNlcjUiLCJlbWFpbCI6InVzZXI1QGVtYWlsLmNvbSIsImlkIjo2LCJpYXQiOjE2NDkyOTg2MzN9.F2OkQYu9SGv__8sGfhtm6TA40Ubuy_7s4VK3hbx6seM",
+		"image" : null,
+		"flag" : "1"
+	},
+	{
+		"id" : 7,
+		"role" : "user",
+		"fullname" : "user6",
+		"email" : "user6@email.com",
+		"pass" : "$2b$10$YGq\/JCBzJ4MXkmG0XbicGuu\/3c1Pmr75.mu4mQGoKK9e0ZONoYEJK",
+		"token" : "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJyb2xlIjoidXNlciIsImZ1bGxuYW1lIjoidXNlcjYiLCJlbWFpbCI6InVzZXI2QGVtYWlsLmNvbSIsImlkIjo3LCJpYXQiOjE2NDkyOTg2Mzd9.pN7VCOz7RXdYpD7LUossbknPf-AyB3ciqSK4Vaxda7o",
+		"image" : null,
+		"flag" : "1"
+	},
+	{
+		"id" : 8,
+		"role" : "user",
+		"fullname" : "user7",
+		"email" : "user7@email.com",
+		"pass" : "$2b$10$eyoUox\/Ge4uHw7oqJo8\/yerf8qsjA1O48TAj3dUiXrSu.ffeuWMJi",
+		"token" : "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJyb2xlIjoidXNlciIsImZ1bGxuYW1lIjoidXNlcjciLCJlbWFpbCI6InVzZXI3QGVtYWlsLmNvbSIsImlkIjo4LCJpYXQiOjE2NDkyOTg2NDh9.y8x-v1nTW9LGPe9rLuO2P_0fJYGKCv2zuZKC1HUYYy0",
+		"image" : null,
+		"flag" : "1"
+	},
+	{
+		"id" : 9,
+		"role" : "user",
+		"fullname" : "user8",
+		"email" : "user8@email.com",
+		"pass" : "$2b$10$nLnDy36jSMZDqZYeSE.S4efPMfrEsox5gWbMKsf6ZlXgPOgjTxfa2",
+		"token" : "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJyb2xlIjoidXNlciIsImZ1bGxuYW1lIjoidXNlcjgiLCJlbWFpbCI6InVzZXI4QGVtYWlsLmNvbSIsImlkIjo5LCJpYXQiOjE2NDkyOTg2NTN9.EVvtIZCgYwGhWspT8Uudob5j03E6uoQJM38U6uqOdTk",
+		"image" : null,
+		"flag" : "1"
+	},
+	{
+		"id" : 10,
+		"role" : "user",
+		"fullname" : "user9",
+		"email" : "user9@email.com",
+		"pass" : "$2b$10$RVPAuOwcUuaJI0Vee8X77OA3iPm3JrMJvDbcqpfrMVnWF6HhljBW2",
+		"token" : "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJyb2xlIjoidXNlciIsImZ1bGxuYW1lIjoidXNlcjkiLCJlbWFpbCI6InVzZXI5QGVtYWlsLmNvbSIsImlkIjoxMCwiaWF0IjoxNjQ5Mjk4NjU3fQ.9x5VmxMHPAJxLklBTkOP6GFf0aJE77bmgO0Or212fGo",
+		"image" : null,
+		"flag" : "1"
+	},
+	{
+		"id" : 11,
+		"role" : "user",
+		"fullname" : "user10",
+		"email" : "user10@email.com",
+		"pass" : "$2b$10$\/DZfgh1V1Gc0\/GNYoom5x.kEe1GSJV4lt8g5R765Wb4mEP0arES8u",
+		"token" : "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJyb2xlIjoidXNlciIsImZ1bGxuYW1lIjoidXNlcjEwIiwiZW1haWwiOiJ1c2VyMTBAZW1haWwuY29tIiwiaWQiOjExLCJpYXQiOjE2NDkyOTg2NjJ9.eAIzYwT4vKB7hkcuVlqHI0ZFtg-KVYy_wFR38FWsT4w",
+		"image" : null,
+		"flag" : "1"
+	}
+]}
