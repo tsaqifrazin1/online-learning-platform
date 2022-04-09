@@ -26,6 +26,11 @@
 fill with your own credential
 - now you can use this REST API
 
+### Public Endpoint
+
+  you can access the app publicly from
+  `https://online-learning-platform-tsaqi.herokuapp.com/`
+
 ## REST API
 
 ## Admin (can access all endpoint)
