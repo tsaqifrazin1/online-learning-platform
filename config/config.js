@@ -25,10 +25,10 @@ module.exports = {
     logging: false,
   },
   production: {
-    username,
-    password,
-    database,
-    host,
+    username: process.env.USER,
+    password: process.env.PASSWORD,
+    database: process.env.DB,
+    host: process.env.HOST,
     dialect,
   },
 };
