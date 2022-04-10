@@ -6,7 +6,7 @@
 - Make sure you have installed MySQL on your local and create `elemes` database
 - Clone this repository into your local repository `git clone https://github.com/tsaqifrazin1/online-learning-platform.git`
 - Run `npm install` => `npm run start-dev`
-- If you get `listening on http://localhost:3000` on your console, then you need migrate and seed the data with `npx sequelize-cli db:migrate` ==> `npx sequelize-cli db:seed:all`
+- If you get `listening on http://localhost:3000` on your console, then you need migrate and seed the data with `npx sequelize-cli db:create` ==> `npx sequelize-cli db:migrate` ==> `npx sequelize-cli db:seed:all`
 - you need create .env file with
 
 ##### .env
